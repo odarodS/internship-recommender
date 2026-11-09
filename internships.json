@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Junior Web Developer Intern",
+    "company": "TechNolo",
+    "skills": ["python", "html", "css","c#"]
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "DataPOL",
+    "skills": ["python", "sql", "excel"]
+  },
+  {
+    "title": "IT Support Intern",
+    "company": "Iantropik",
+    "skills": ["networks", "windows", "linux"]
+  }
+]
